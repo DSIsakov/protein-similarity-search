@@ -24,6 +24,7 @@ pip install biopython faiss-cpu
 ---
 
 ## 🚀 Запуск
+Добавьте базу данных с именем `uniprot_sprot.fasta` и запустите:
 ```bash
 python3 main.py
 ```
